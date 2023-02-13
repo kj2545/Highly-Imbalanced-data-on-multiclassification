@@ -2,7 +2,7 @@
 Analyze and predict the candidate completion based on Highly imbalanced sample data set on multiclassification output
 
 
-Project objective: Teach for America(TFA) continuously studies and refines the admissions process to select those who will have the most impact, to improve corps completion, and to increase matriculation. In this analysis, I will focus on the preliminary study on how each level affect the completion in each funnel of application process.
+Project objective: Company continuously studies and refines the admissions process to select those who will have the most impact, to improve corps completion, and to increase matriculation. In this analysis, I will focus on the preliminary study on how each level affect the completion in each funnel of application process.
 
 Application to admission process consists of 6 main funnels:
 1) Interview invites
